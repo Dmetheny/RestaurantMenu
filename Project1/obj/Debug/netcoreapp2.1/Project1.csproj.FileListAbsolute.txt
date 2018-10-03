@@ -1,0 +1,11 @@
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.csprojAssemblyReference.cache
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.AssemblyInfo.cs
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.deps.json
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.runtimeconfig.json
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.runtimeconfig.dev.json
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.dll
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.pdb
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.dll
+C:\Users\Dylan-PC\RiderProjects\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.pdb
